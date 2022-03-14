@@ -7181,7 +7181,7 @@
   (gr_arc (start 29.1 29.6) (mid 29.246447 29.246447) (end 29.6 29.1) (layer "Edge.Cuts") (width 0.1) (tstamp aa565413-e7e1-4f3c-8a91-55e3e0a6e3ef))
   (gr_arc (start 380.5 123) (mid 380.353553 123.353553) (end 380 123.5) (layer "Edge.Cuts") (width 0.1) (tstamp d52775ee-dd56-474f-8b5c-c66029880e5c))
   (gr_line (start 29.6 29.1) (end 200.025 29.1) (layer "Edge.Cuts") (width 0.1) (tstamp f0ad4449-626d-4aef-bbd4-02eba1183b71))
-  (gr_text "NeXT76 by Andrew D\nRev 1.1\n" (at 290.5125 114.3) (layer "B.SilkS") (tstamp a5d01954-50f2-4ef4-ac22-4fad9b9b2741)
+  (gr_text "NeXT76 by Andrew D\nRev 1.0\n" (at 290.5125 114.3) (layer "B.SilkS") (tstamp a5d01954-50f2-4ef4-ac22-4fad9b9b2741)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
 
