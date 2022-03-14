@@ -7,7 +7,8 @@ Stacked acrylic layered case consisting of:
 1 layer of 1.5mm acrylic (1.2mm FR4 plate sits in-line with this layer)  
 2 layers of 3mm acrylic  
 
-Requried Hardware:  
+Requried Hardware:
+---------------
 10x M3x8mm Hex Standoff Spacers a corners, main screw points   
 2x M2x8mm Round Standoff Spacers at usb  
 5x M2x8mm Rourd Standoff Spacers at plate mount  
