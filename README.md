@@ -3,6 +3,10 @@ NeXT76 Left-Handed Alps Keyboard
 The primary goal of this project was create as PCB which fits in KBD66 and FC660m cases and supports a 66% AEK layout.
 The pcb schematic is modified from Hasu's Alps64.
 
+![next_pcb](https://user-images.githubusercontent.com/39595668/158248513-5e503803-60b1-4481-ab4c-165473b77b3f.jpg)
+![next_model](https://user-images.githubusercontent.com/39595668/158248540-c1b66c54-edef-4a9f-af2d-58364e22f06b.JPG)
+
+
 Supported Layouts
 ---------------
 This keyboard supports the [NeXT standard non-adb layout](https://tinyurl.com/mrxz3pk3) with a few differences, there no arrow Keys, brightness or volume keys and the numpad is moved to the immediate left of the ESC, TAB, etc... keys.  
