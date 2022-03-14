@@ -1,1 +1,0 @@
-FR4 Plate KICAD files for custom NeXT acrylic case and PCB
