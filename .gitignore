@@ -1,2 +1,10 @@
 *.bak
 *.zip
+*fp-info-cache
+next_gerbers/
+next-backups/
+next_plate/next_plate_gerbers/
+next_plate/next_plate-backups/
+next.dxf
+next.dwg
+next_model/*.dxf
