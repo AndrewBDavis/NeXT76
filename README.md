@@ -50,7 +50,7 @@ BOM for Alps76 keyboard
 Revisions
 -------------
 V0.0: 	Prototype  
-V1.0: 	Initial Release 
+V1.0: 	Initial Release  
 &emsp;&emsp;&nbsp;&nbsp;Cleaned up trace routing  
 &emsp;&emsp;&nbsp;&nbsp;Added full numpad support  
 
