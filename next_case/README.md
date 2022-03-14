@@ -1,6 +1,7 @@
 NeXT76 Acrylic Keyboard Case 
 =====================
-Stacked acrylic layered case consisting of:  
+Stacked acrylic layered case consisting of:
+---------------
 2 layers of 3mm acrylic  
 1 layer of 1.5mm acrylic  
 1 layer of 3mm acrylic (1.2mm FR4 plate sits on top of this layer)  
