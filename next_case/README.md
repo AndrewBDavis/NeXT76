@@ -1,11 +1,11 @@
 NeXT76 Acrylic Keyboard Case 
 =====================
 Stacked acrylic layered case consisting of:  
-2 layers of 3mm acrylic  
-1 layer of 1.5mm acrylic  
-1 layer of 3mm acrylic (1.2mm FR4 plate sits on top of this layer)  
-1 layer of 1.5mm acrylic (1.2mm FR4 plate sits in-line with this layer)  
-2 layers of 3mm acrylic  
+·2 layers of 3mm acrylic  
+·1 layer of 1.5mm acrylic  
+·1 layer of 3mm acrylic (1.2mm FR4 plate sits on top of this layer)  
+·1 layer of 1.5mm acrylic (1.2mm FR4 plate sits in-line with this layer)  
+·2 layers of 3mm acrylic  
 
 Requried Hardware:  
 10x M3x8mm Hex Standoff Spacers a corners, main screw points   
