@@ -1,7 +1,6 @@
 NeXT76 Left-Handed Alps Keyboard
 =====================
-The primary goal of this project was create as PCB which fits in KBD66 and FC660m cases and supports a 66% AEK layout.
-The pcb schematic is modified from Hasu's Alps64.
+The primary goal of this project was create as PCB and accompanying layered acrylic case for exclusive support for NeXT non-adb keycaps and Alps Electric SKCM/SKCL switches.
 
 ![next_pcb](https://github.com/AndrewBDavis/NeXT/blob/master/next_pcb.jpg)
 ![next_model](https://github.com/AndrewBDavis/NeXT/blob/master/next_case/next_model.JPG)
