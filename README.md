@@ -44,7 +44,7 @@ BOM for Alps76 keyboard
 | U1    | ATMEGA32U4 | QFP44                | ATMega32u4-AU        | 
 | X1    | CRYSTAL    | FA-238               | 16MHz, 12PF          |
 | D(78) | DIODE      | SOD-123              | 1N4148               |
-| LED(3)| LED        | LED_Rectangular...   | 2.54mm pitch         |
+| LED(3)| LED        | LED_D3.0mm           | 3mm Round Top LED    |
 
 Revisions
 -------------
