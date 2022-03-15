@@ -8,7 +8,8 @@ The primary goal of this project was create as PCB and accompanying layered acry
 
 Supported Layouts
 ---------------
-This keyboard supports the [NeXT standard non-adb layout](https://tinyurl.com/mrxz3pk3) with a few differences, there no arrow Keys, brightness or volume keys and the numpad is moved to the immediate left of the ESC, TAB, etc... keys.  
+This keyboard only supports a [modifed NeXT non-adb layout](https://tinyurl.com/mrxz3pk3) with no arrow Keys, brightness or volume keys and a numpad that is moved to the immediate left of the ESC, TAB, etc... keys. 
+
 Numpad Layouts supported:  
 | 1u | 1u | 1u | 1u |  | 1u | 1u | 1u | 1u |  | 1u | 1u | 1u | 1u |
 |----|----|----|----|--|----|----|----|----|--|----|----|----|----|
