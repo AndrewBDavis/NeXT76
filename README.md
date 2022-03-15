@@ -1,6 +1,6 @@
 NeXT76 Left-Handed Alps Keyboard
 =====================
-The primary goal of this project was create as PCB and accompanying layered acrylic case for exclusive support for NeXT non-adb keycaps and Alps Electric SKCM/SKCL switches.
+The primary goal of this project was create as PCB and accompanying layered acrylic case to exclusively support NeXT non-adb keycaps and Alps Electric SKCM/SKCL switches.
 
 ![next_pcb](https://github.com/AndrewBDavis/NeXT/blob/master/next_pcb.jpg)
 ![next_model](https://github.com/AndrewBDavis/NeXT/blob/master/next_case/next_case_model.JPG)
@@ -52,6 +52,6 @@ Revisions
 V0.0: 	Prototype  
 V1.0: 	Initial Release  
 &emsp;&emsp;&nbsp;&nbsp;Cleaned up trace routing  
-&emsp;&emsp;&nbsp;&nbsp;Added full numpad support  
+&emsp;&emsp;&nbsp;&nbsp;Added more numpad configurations  
 
 		
