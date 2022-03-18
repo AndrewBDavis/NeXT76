@@ -1,6 +1,6 @@
 NeXT76 Left-Handed Alps Keyboard
 =====================
-The primary goal of this project was create as PCB and accompanying layered acrylic case for exclusive support for NeXT non-adb keycaps and Alps Electric SKCM/SKCL switches.
+The primary goal of this project was create as PCB and accompanying layered acrylic case to exclusively support NeXT non-adb keycaps and Alps Electric SKCM/SKCL switches.
 
 ![next_pcb](https://github.com/AndrewBDavis/NeXT/blob/master/next_pcb.jpg)
 ![next_model](https://github.com/AndrewBDavis/NeXT/blob/master/next_case/next_case_model.JPG)
@@ -8,7 +8,7 @@ The primary goal of this project was create as PCB and accompanying layered acry
 
 Supported Layouts
 ---------------
-This keyboard only supports a [modifed NeXT non-adb layout](https://tinyurl.com/mrxz3pk3) with no volume, brightness or arrow keys and a numpad that is moved to the left of the alphanumericals. 
+This keyboard only supports a [modifed NeXT non-adb layout](https://tinyurl.com/mrxz3pk3) with no volume, brightness or arrow keys and a numpad that is moved to the left of the alphanumericals. Shift key leds are supported.
 
 Numpad Layouts supported:  
 | 1u | 1u | 1u | 1u |  | 1u | 1u | 1u | 1u |  | 1u | 1u | 1u | 1u |
@@ -52,6 +52,6 @@ Revisions
 V0.0: 	Prototype  
 V1.0: 	Initial Release  
 &emsp;&emsp;&nbsp;&nbsp;Cleaned up trace routing  
-&emsp;&emsp;&nbsp;&nbsp;Added full numpad support  
+&emsp;&emsp;&nbsp;&nbsp;Added more numpad configurations  
 
 		
