@@ -15,8 +15,8 @@ Requried Hardware:
 5x M2x4mm Rourd Standoff Spacers at plate mount  
 
 8x M3x8 Countersunk Hex Socket Screws at corners main screw points, top  
-8x M3x8 Countersunk Hex Socket Screws at corners main screw points, bottom  
 2x M2x4 Button Head Hex Socket Screws at usb, top  
+5x M2x4 Button Head Hex Socket Screws at plate mount, top
+8x M3x8 Countersunk Hex Socket Screws at corners main screw points, bottom  
 2x M2X3 Countersunk Hex Socket Screws at usb, bottom  
-5x M2x4 Button Head Hex Socket Screws at plate mount, top  
 5x M2x3 Countersunk Hex Socket Screws at plate mount, bottom  
