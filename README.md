@@ -53,5 +53,6 @@ V0.0: 	Prototype
 V1.0: 	Initial Release  
 &emsp;&emsp;&nbsp;&nbsp;Cleaned up trace routing  
 &emsp;&emsp;&nbsp;&nbsp;Added more numpad configurations  
-V1.1: 	Added second numpad LED location option
+V1.1: 	Added second numpad LED location option  
+V1.2: 	Updated diode footprints 
 		
