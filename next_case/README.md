@@ -10,13 +10,18 @@ Layered acrylic layered case consisting of:
 
 Requried Hardware:
 ---------------
-8x M3x8mm Hex Standoff Spacers a corners, main screw points   
-2x M2x4mm Round Standoff Spacers at usb  
-5x M2x4mm Rourd Standoff Spacers at plate mount  
+| Description                    | Thread | Length | Qty: | Locations:                 | Part number or Standard : |
+|--------------------------------|--------|--------|------|----------------------------|---------------------------|
+| Hex Standoff Spacers           | M3     | 8mm    | 8    | Main Mouting Points        | M1255-3005-AL             |
+| Round Standoff Spacers (Brass) | M2     | 4mm    | 7    | USB, Plate Mounting        | Generic, D3mm             |
+| Countersunk Hex Socket Screws  | M3     | 8mm    | 16   | Main Mouting Points        | ISO 10642 / DIN 7991      |
+| Countersunk Hex Socket Screws  | M2     | 8mm    | 7    | USB, Plate Mounting Points | ISO 10642 / DIN 7991      |
+| Button Head Hex Socket Screws  | M2     | 4mm    | 7    | USB, Plate Mounting Points | ISO 7380 / DIN 9427       |
 
-8x M3x8 Countersunk Hex Socket Screws at corners main screw points, top  
-2x M2x4 Button Head Hex Socket Screws at usb, top  
-5x M2x4 Button Head Hex Socket Screws at plate mount, top
-8x M3x8 Countersunk Hex Socket Screws at corners main screw points, bottom  
-2x M2X3 Countersunk Hex Socket Screws at usb, bottom  
-5x M2x3 Countersunk Hex Socket Screws at plate mount, bottom  
+Optional Hardware:
+---------------
+| Description                      | Qty:             | Notes:                                        |
+|----------------------------------|------------------|-----------------------------------------------|
+| 22mm Anodized Aluminum Cone Feet | 3 is recommended | Available from Drop, KBDFans, Aliexpress etc. |
+
+**Please note:** To use the aluminum feet, you must use the inclueded countersunk M4 screws and clip the legs of the switches mounted directly above screws and ensure the two are not making contact.
