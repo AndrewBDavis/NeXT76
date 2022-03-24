@@ -10,13 +10,13 @@ Layered acrylic layered case consisting of:
 
 Requried Hardware:
 ---------------
-| Description                    | Thread | Length | Qty: | Locations:                 | Part number or Standard : |
-|--------------------------------|--------|--------|------|----------------------------|---------------------------|
-| Hex Standoff Spacers           | M3     | 8mm    | 8    | Main Mouting Points        | M1255-3005-AL             |
-| Round Standoff Spacers (Brass) | M2     | 4mm    | 7    | USB, Plate Mounting        | Generic, D3mm             |
-| Countersunk Hex Socket Screws  | M3     | 8mm    | 16   | Main Mouting Points        | ISO 10642 / DIN 7991      |
-| Countersunk Hex Socket Screws  | M2     | 8mm    | 7    | USB, Plate Mounting Points | ISO 10642 / DIN 7991      |
-| Button Head Hex Socket Screws  | M2     | 4mm    | 7    | USB, Plate Mounting Points | ISO 7380 / DIN 9427       |
+| Description                    | Thread | Length | Qty: | Locations:                          | Part number or Standard : |
+|--------------------------------|--------|--------|------|-------------------------------------|---------------------------|
+| Hex Standoff Spacers           | M3     | 8mm    | 8    | Main Mouting Points                 | M1255-3005-AL             |
+| Round Standoff Spacers (Brass) | M2     | 4mm    | 7    | USB, Plate Mounting                 | Generic, D3mm             |
+| Countersunk Hex Socket Screws  | M3     | 8mm    | 16   | Main Mouting Points                 | ISO 10642 / DIN 7991      |
+| Countersunk Hex Socket Screws  | M2     | 8mm    | 7    | USB, Plate Mounting Points (Bottom) | ISO 10642 / DIN 7991      |
+| Button Head Hex Socket Screws  | M2     | 4mm    | 7    | USB, Plate Mounting Points (Top)    | ISO 7380 / DIN 9427       |
 
 Optional Hardware:
 ---------------
